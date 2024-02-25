@@ -9,6 +9,8 @@ using namespace sf;
 
 int main() 
 {
+
+	cout<<"Azfar Nayyan @Git Hub."<<endl;
 	RenderWindow Window(VideoMode(1000, 600), "Departmental Store Management System.");
 
 	DisplayLoadingScreen(Window);      // Loading Screen.
