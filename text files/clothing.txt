@@ -1,0 +1,10 @@
+1 69 Shalwar 1500 5 
+2 69 Kameez 2500 5 
+3 69 Pants 3000 10 
+4 69 FormalShirt 5500 5 
+5 69 Tie 1550 5 
+6 69 Underwear 69.69 5 
+7 69 Hoodie 1999 5 
+8 69 Shorts 2999 5 
+9 69 T-shirt 599 5 
+10 69 Coat 6999 2 
